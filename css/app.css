@@ -1,0 +1,26 @@
+/* CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* aap Header */
+.app-header {
+    padding: 16px;
+    border-bottom: 1px solid
+}
+
+h1 {
+    font-size: 21px;
+}
+
+/*. Main Content */
+
+/* Cards */
+.card {
+    min-height: 160px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
